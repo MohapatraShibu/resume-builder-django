@@ -7,7 +7,7 @@ AIM - Build a web application which help students to automatically generate a re
 1. Download or clone the repository and Unzip each and every files/folders.
 2. Make sure user has installed all the requiered module of Django before proceeding towards execution. 
 
-`(pip install module_name)`
+`(pip install module_name)` `pip install django-crispy-forms`
 
 3. Open cmd in `resume_builder_django` directory and type the following command:
 
