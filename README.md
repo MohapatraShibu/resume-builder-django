@@ -1,6 +1,6 @@
 # resume builder django
 
-### Practical No: 8
+### Implementation
 AIM - Build a web application which help students to automatically generate a resume by filling out the details in the form and it will create a pdf for users to download
 
 ### Steps:
